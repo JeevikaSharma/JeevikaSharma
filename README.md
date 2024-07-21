@@ -1,10 +1,10 @@
--<div align="center">
-    <strong> Heya! 👋 It's Jeevika</strong>
+<div align="center">
+    <h1> Heya! 👋 It's Jeevika</h1>
 </div>
 
 - 📫 Reach out to me at:
--  [LinkedIn](https://www.linkedin.com/in/jeevika2003sharma/)
--  [Gmail](jeevika2003sharma@gmail.com)
+   👉[LinkedIn](https://www.linkedin.com/in/jeevika2003sharma/)
+   📧Gmail- jeevika2003sharma@gmail.com
 
 <!---
 JeevikaSharma/JeevikaSharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
