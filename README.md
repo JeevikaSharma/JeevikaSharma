@@ -1,9 +1,9 @@
 <div align="center">
     <h1> Heya! 👋 It's Jeevika</h1>
 </div>
-<h2>- 📫 Reach out to me at:<br>
-   👉[LinkedIn](https://www.linkedin.com/in/jeevika2003sharma/) <br>
-   📧Gmail- jeevika2003sharma@gmail.com</h2>
+<h3> 📫 Reach out to me at: <br></h3>
+   <h4>👉[LinkedIn](https://www.linkedin.com/in/jeevika2003sharma/) <br>
+   📧Gmail- jeevika2003sharma@gmail.com</h4>
 
 
 <!---
