@@ -9,6 +9,8 @@
 
 <br>
 📫 Reach out to me at:<br>
+   [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/jeevika2003sharma/)
+   [![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:jeevika2003sharma@gmail.com)
 
   <a href="https://www.linkedin.com/in/jeevika2003sharma/" target="_blank">
      <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" style="width:30px;"/>
