@@ -8,6 +8,7 @@
 🤝 I am looking to collaborate on building communities, and research projects in ML.
 
 ![](https://miro.medium.com/v2/resize:fit:960/1*oJwImXIdksNBJ1ocRPNurg.gif)
+<img src="https://miro.medium.com/v2/resize:fit:960/1*oJwImXIdksNBJ1ocRPNurg.gif" alt="GIF" />
 
 <br>
 📫 Reach out to me at:<br>
