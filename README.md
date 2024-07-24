@@ -1,13 +1,13 @@
 
 <div align="center">
-    <h1>Heya! 👋 It's Jeevika !</h1>
-    <h2>Welcome to my GitHub!✨🌞</h2>
+    <h1> <i> Heya! 👋 It's Jeevika ! </i></h1>
+    <h1>Welcome to my GitHub!✨🌞</h1>
 </div>
 
 🌱 I'm a passionate data science enthusiast on a journey to explore, learn, and uncover insights from data.<br>⭐️ Currently, I've embarked on a mission to strengthen my Machine Learning Concepts.<br>🤝 I am looking to collaborate on building communities, and research projects in ML.<br><br> 
 
 
-🌐 Reach out to me at:<br> 
+## 🌐 Reach out to me at:<br> 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeevika2003sharma) 
 <a href="mailto:jeevika2003sharma@gmail.com">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="30" height="25" alt="Email">
