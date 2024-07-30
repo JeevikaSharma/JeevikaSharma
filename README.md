@@ -10,7 +10,7 @@
 ## 🌐 Reach out to me at:<br> 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeevika2003sharma) 
 <a href="mailto:jeevika2003sharma@gmail.com">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="30" height="25" alt="Email">
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="20" height="27" alt="Email">
 </a>
 ## 💻 Tools and Technologies:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHEDicm2YpQCw-jDOAGdWldUWS0mU6LF4Iqw&s" alt="Pandas" width="120" height="23"> ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7K8Ip-hdVgyJoNGoQsPXc6roAyt5bfhCqRFaKSAa4TfBfWiuqD-Rijqual-_KPhdZEg&usqp=CAU" alt="Seaborn" width="120" height="23">   <br>
